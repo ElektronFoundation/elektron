@@ -1,0 +1,5 @@
+Building Elektron
+need to install libevent
+See doc/readme-qt.rst for instructions on building Elektron QT.
+
+See doc/build-*.txt for instructions on building Elektrond.
